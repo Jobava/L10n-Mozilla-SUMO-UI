@@ -1,0 +1,464 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-10-06 13:10-0700\n"
+"PO-Revision-Date: 2015-10-11 18:52+0000\n"
+"Last-Translator: Jobava <jobaval10n@gmail.com>\n"
+"Language-Team: none\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2);;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1444589560.0\n"
+
+#: app/views/comment.html:18
+msgid "Failed"
+msgstr "Eșuat"
+
+#: app/views/comment.html:20
+msgid "Sending…"
+msgstr "Se trimite…"
+
+#: app/views/comment.html:26 app/js/question_controller.js:107
+msgid "Solution ✓"
+msgstr "Soluţie ✓"
+
+#: app/views/comment.html:29
+msgid "This solved my question"
+msgstr "Aceasta mi-a rezolvat problema"
+
+#: app/views/generic_error.html:2
+msgid "Whoops!"
+msgstr "Ups!"
+
+#: app/views/generic_error.html:3
+msgid "There was a problem with Buddy Up, please try again."
+msgstr "S-a produs o eroare cu Buddy Up, te rugăm să încerci din nou."
+
+#: app/views/generic_error.html:4
+msgid "You are not online, please check your connection."
+msgstr "Nu ești online. Verifică dacă ești conectat(ă)."
+
+#: app/views/generic_error.html:7 app/views/main/password_reset.html:24 app/views/main/question.html:43 app/views/main/question.html:53
+msgid "OK"
+msgstr "Ok"
+
+#: app/views/helper_profile.html:3
+msgid "<div {countattr}>{n}</div><div {textattr}> question solved</div>"
+msgid_plural "<div {countattr}>{n}</div><div {textattr}> questions solved</div>"
+msgstr[0] "<div {countattr}>{n}</div><div {textattr}> întrebare rezolvată</div>"
+msgstr[1] "<div {countattr}>{n}</div><div {textattr}> întrebări rezolvate</div>"
+msgstr[2] "<div {countattr}>{n}</div><div {textattr}> de întrebări rezolvate</div>"
+
+#: app/views/helper_profile.html:11
+msgid "<div {countattr}>{n}</div><div {textattr}> helpful vote</div>"
+msgid_plural "<div {countattr}>{n}</div><div {textattr}> helpful votes</div>"
+msgstr[0] "<div {countattr}>{n}</div><div {textattr}> vot „util”</div>"
+msgstr[1] "de <div {countattr}>{n}</div><div {textattr}> ori votat ca „util”</div>"
+msgstr[2] "de <div {countattr}>{n}</div><div {textattr}> ori votat ca „util”</div>"
+
+#: app/views/main/authentication.html:2 app/views/main/helper_profile.html:2 app/views/main/kb.html:2 app/views/main/old_versions.html:5 app/views/main/password_reset.html:2
+#: app/views/main/profile.html:2 app/views/main/question.html:3 app/views/main/question_list_helpee.html:2 app/views/main/question_list_helper.html:2 app/views/main/registration.html:2
+msgid "Close"
+msgstr "Închide"
+
+#: app/views/main/authentication.html:4 app/views/main/authentication.html:23
+msgid "Sign In"
+msgstr "Autentifică-te"
+
+#: app/views/main/authentication.html:9
+msgid "An account lets you answer questions, track contributions and receive alerts."
+msgstr "Un cont îți permite să răspunzi la întrebări, să urmărești contribuțiile și să primești alerte."
+
+#: app/views/main/authentication.html:13 app/views/main/password_reset.html:13 app/views/main/registration.html:17
+msgid "Username"
+msgstr "Nume utilizator"
+
+#: app/views/main/authentication.html:17 app/views/main/registration.html:21
+msgid "Password"
+msgstr "Parola"
+
+#: app/views/main/authentication.html:21
+msgid "Forgot your password?"
+msgstr "Ai uitat parola?"
+
+#: app/views/main/authentication.html:25
+msgid "Don't have an account? Register"
+msgstr "Nu ai un cont? Înregistrează-te"
+
+#: app/views/main/email_confirmation.html:2
+msgid "Confirm Account"
+msgstr "Confirmă contul"
+
+#: app/views/main/email_confirmation.html:6
+msgid "Yay, you're almost done!"
+msgstr "Ura, aproape ai terminat!"
+
+#: app/views/main/email_confirmation.html:8
+msgid "We've sent a welcome email to:"
+msgstr "Ți-am trimis un mesaj de binevenit la:"
+
+#: app/views/main/email_confirmation.html:12
+msgid "Click on the link in your email to let us know that it made it to the right place. After that, return to BuddyUp and make other users happy!"
+msgstr "Clic pe linkul din emailul primit pentru a ne anunța că ai ajuns unde trebuie. După aceasta, revino la BuddyUp pentru a face alți utilizatori fericiți!"
+
+#: app/views/main/email_confirmation.html:15
+msgid "Cancel Sign Up"
+msgstr "Anulează înregistrarea"
+
+#: app/views/main/helper_profile.html:10
+msgid "Answered Questions"
+msgstr "Întrebări răspunse"
+
+#: app/views/main/home.html:3 app/views/main/question.html:7 app/views/main/question_list_helpee.html:6 app/views/main/question_list_helper.html:6
+msgid "Settings"
+msgstr "Setări"
+
+#: app/views/main/home.html:6
+msgid "Support"
+msgstr "Suport"
+
+#: app/views/main/home.html:10
+msgid "Have Questions?"
+msgstr "Ai întrebări?"
+
+#: app/views/main/home.html:11
+msgid "Get a Buddy to help you with your device"
+msgstr "Contactează un amic (buddy) pentru a te ajuta cu dispozitivul tău"
+
+#: app/views/main/home.html:12
+msgid "Ask a Question"
+msgstr "Pune o întrebare"
+
+#: app/views/main/home.html:15
+msgid "Have Answers?"
+msgstr "Ai răspunsuri?"
+
+#: app/views/main/home.html:16
+msgid "Help other users around the world"
+msgstr "Ajută alți utilizatori din lumea întreagă"
+
+#: app/views/main/home.html:17
+msgid "Answer Questions"
+msgstr "Întrebări răspunse"
+
+#: app/views/main/home.html:21
+msgid "Top Helpers this Week"
+msgstr "Top asistenți în această săptămână"
+
+#: app/views/main/home.html:24
+msgid "No questions"
+msgstr "Nu sunt întrebări"
+
+#: app/views/main/home.html:26 app/views/main/question_list_helpee.html:9
+msgid "My Questions"
+msgstr "Întrebările mele"
+
+#: app/views/main/home.html:31
+msgid "All My Questions"
+msgstr "Toate întrebările mele"
+
+#: app/views/main/kb.html:4
+msgid "Help Article"
+msgstr "Articol de ajutor"
+
+#: app/views/main/old_versions.html:1
+msgid "Incompatible version"
+msgstr "Versiune incompatibilă"
+
+#: app/views/main/old_versions.html:2
+msgid "We're sorry, but BuddyUp can't be installed on your version of Firefox OS. Please close this window to return to your home screen."
+msgstr "Ne pare rău, dar BuddyUp nu poate fi instalat pe versiunea ta de Firefox OS. Închide această fereastră pentru a reveni la ecranul principal."
+
+#: app/views/main/password_reset.html:4 app/views/main/password_reset.html:16
+msgid "Reset Password"
+msgstr "Resetează parola"
+
+#: app/views/main/password_reset.html:9
+msgid "Forgot your password? Don't worry. Enter your username below and we'll send you instructions for setting a new one."
+msgstr "Ai uitat parola? Nu te îngrijora. Introdu numele de utilizator mai jos și-ți vom trimite instrucțiuni despre cum poți seta una nouă."
+
+#: app/views/main/password_reset.html:21
+msgid "We've sent you an email. Just follow the link in the email to reset your password."
+msgstr "Ți-am trimis un e-mail. Urmează linkul din e-mail pentru a reseta parola."
+
+#: app/views/main/profile.html:5
+msgid "Done"
+msgstr "Gata"
+
+#: app/views/main/profile.html:7
+msgid "My Profile"
+msgstr "Profilul meu"
+
+#: app/views/main/question.html:10
+msgid "My Question"
+msgstr "Întrebarea mea"
+
+#: app/views/main/question.html:14
+msgid "We can help<br>Ask us anything!"
+msgstr "Te putem ajuta<br>Întreabă-ne orice!"
+
+#: app/views/main/question.html:26
+msgid "Write your message…"
+msgstr "Scrie mesajul tău…"
+
+#: app/views/main/question.html:32
+msgid "Sign in to reply"
+msgstr "Înregistrează-te pentru a răspunde"
+
+#: app/views/main/question.html:39
+msgid "Thank you for your question!"
+msgstr "Mulțumim pentru întrebare!"
+
+#: app/views/main/question.html:40
+msgid "You'll get a notification as soon as a Buddy jumps in to the rescue."
+msgstr "Vei primi o notificare imediat ce un amic sare în ajutor."
+
+#: app/views/main/question.html:49
+msgid "Previously Answered"
+msgstr "Răspunse anterior"
+
+#: app/views/main/question.html:50
+msgid "Another helper has answered this question, please choose another."
+msgstr "Alt asistent a răspuns acestei întrebări, alege o altă întrebare."
+
+#: app/views/main/question.html:59
+msgid "Has your question been solved?"
+msgstr "A fost rezolvată problema ta?"
+
+#: app/views/main/question.html:60
+msgid "This will close the question and let your buddy know you no longer need help."
+msgstr "Aceasta va închide întrebarea și va anunța amicul că nu mai ai nevoie de ajutor."
+
+#: app/views/main/question.html:63
+msgid "Cancel"
+msgstr "Renunță"
+
+#: app/views/main/question.html:64
+msgid "Ok"
+msgstr "Ok"
+
+#: app/views/main/question_list_helper.html:9
+msgid "Answer a Question"
+msgstr "Răspunde la o întrebare"
+
+#: app/views/main/question_list_helper.html:14
+msgid "Sign in to answer questions from Firefox OS users."
+msgstr ""
+"Autentifică-te pentru a răspunde la întrebări din partea utilizatorilor "
+"Firefox OS."
+
+#: app/views/main/question_list_helper.html:15 app/views/my-profile.html:76
+msgid "Create account or sign in"
+msgstr "Înscriere sau autentificare"
+
+#: app/views/main/question_list_helper.html:19
+msgid "New"
+msgstr "Nou"
+
+#: app/views/main/question_list_helper.html:22
+msgid "My list"
+msgstr "Lista mea"
+
+#: app/views/main/question_list_helper.html:28 app/views/main/question_list_helper.html:39
+msgid "Load more"
+msgstr "Încarcă mai multe"
+
+#: app/views/main/question_list_helper.html:31
+msgid "Last sync:"
+msgstr "Ultima sincronizare:"
+
+#: app/views/main/question_list_helper.html:32
+msgid "x hours ago"
+msgstr "acum x ore"
+
+#: app/views/main/registration.html:4 app/views/main/registration.html:24
+msgid "Create Account"
+msgstr "Creează un cont"
+
+#: app/views/main/registration.html:9
+msgid "Be aware that you will lose your history when you sign in to your account."
+msgstr "Ai grijă că vei pierde istoricul când te autentifici în cont."
+
+#: app/views/main/registration.html:13
+msgid "Email Address"
+msgstr "Adresa de e-mail"
+
+#: app/views/main/registration.html:26
+msgid "Already registered? Sign in"
+msgstr "Ești deja înregistrat(ă)? Autentifică-te"
+
+#: app/views/main/unsupported_locale.html:2
+msgid "Unsupported Language"
+msgstr "Limbă nesuportată"
+
+#: app/views/main/unsupported_locale.html:7
+msgid "BuddyUp currently doesn't support \"<span id=\"language\"></span>\"."
+msgstr "BuddyUp nu suportă momentan „<span id=\"language\"></span>”."
+
+#: app/views/main/unsupported_locale.html:10
+msgid "Please ask your questions in English, or go to <a href=\"http://support.mozilla.org\">http://support.mozilla.org</a> for more help."
+msgstr "Te rugăm să întrebi în engleză, sau să mergi la <a href=\"http://support.mozilla.org\">http://support.mozilla.org</a> pentru mai mult ajutor."
+
+#: app/views/main/unsupported_locale.html:13
+msgid "Continue"
+msgstr "Continuă"
+
+#: app/views/main/unsupported_locale.html:14
+msgid "Quit"
+msgstr "Închide"
+
+#: app/views/my-profile.html:10
+msgid "{n} question solved"
+msgid_plural "{n} questions solved"
+msgstr[0] "{n} întrebare rezolvată"
+msgstr[1] "{n} întrebări rezolvate"
+msgstr[2] "{n} de întrebări rezolvate"
+
+#: app/views/my-profile.html:13
+msgid "{n} helpful vote"
+msgid_plural "{n} helpful votes"
+msgstr[0] "{n} vot „util”"
+msgstr[1] "{n} voturi „util”"
+msgstr[2] "{n} de voturi „util”"
+
+#: app/views/my-profile.html:24
+msgid "My preferences"
+msgstr "Preferințele mele"
+
+#: app/views/my-profile.html:28
+msgid "Too many questions? Use the settings below to narrow down the \"Answer a Question\" list."
+msgstr "Prea multe întrebări? Folosește setările de mai jos pentru a micșora lista."
+
+#: app/views/my-profile.html:33 app/js/question_controller.js:26
+msgid "Language"
+msgstr "Limba"
+
+#: app/views/my-profile.html:44
+msgid "Device"
+msgstr "Dispozitiv"
+
+#: app/views/my-profile.html:55
+msgid "Operator"
+msgstr "Operator"
+
+#: app/views/my-profile.html:69
+msgid "Answer questions"
+msgstr "Răspunde la întrebări"
+
+#: app/views/my-profile.html:73
+msgid "Sign in to answer questions from the Mozilla community."
+msgstr "Autentifică-te pentru a răspunde la întrebări din partea comunității Mozilla."
+
+#: app/views/question_list_day.html:16
+msgid "No active questions"
+msgstr "Nu sunt întrebări active"
+
+#: app/views/question_list_day.html:17
+msgid "Go to the New tab to answer some questions. We'll keep track of them here."
+msgstr "Mergeți la „Filă nouă” pentru a răspunde la câteva întrebări. Vom păstra evidența acestora de aici."
+
+#: app/js/notifications.js:64
+msgid "{user} left a comment on your question"
+msgstr "{user} a lăsat un comentariu la întrebarea dumneavoastră"
+
+#: app/js/notifications.js:74
+msgid "{user} chose your answer as a solution"
+msgstr "{user} a ales răspunsul dumneavoastră ca soluție"
+
+#: app/js/password_reset_controller.js:21
+msgid "User not found."
+msgstr "Utilizatorul nu a fost găsit."
+
+#: app/js/question_controller.js:12
+msgid "Choose a category"
+msgstr "Alegeți o categorie"
+
+#: app/js/question_controller.js:13
+msgid "Email/Calendar"
+msgstr "E-mail/Calendar"
+
+#: app/js/question_controller.js:14
+msgid "Clock/Alarm"
+msgstr "Ceas/Alarmă"
+
+#: app/js/question_controller.js:15
+msgid "Camera/Gallery/Video"
+msgstr "Cameră/Galerie/Video"
+
+#: app/js/question_controller.js:16
+msgid "Audio/Music/FMRadio"
+msgstr "Audio/Muzică/RadioFM"
+
+#: app/js/question_controller.js:17
+msgid "Performance"
+msgstr "Performanță"
+
+#: app/js/question_controller.js:18
+msgid "Cellular Data/WiFi/Bluetooth"
+msgstr "Date mobil/WiFi/Bluetooth"
+
+#: app/js/question_controller.js:19
+msgid "SMS/MMS"
+msgstr "SMS/MMS"
+
+#: app/js/question_controller.js:20
+msgid "Dialer/Contacts"
+msgstr "Apelare/Contacte"
+
+#: app/js/question_controller.js:21
+msgid "Browser/Download"
+msgstr "Navigare/Descărcare"
+
+#: app/js/question_controller.js:22
+msgid "Storage/SD card"
+msgstr "Stocare/Card SD"
+
+#: app/js/question_controller.js:23
+msgid "Maps/GPS"
+msgstr "Hărți/GPS"
+
+#: app/js/question_controller.js:24
+msgid "Keyboard"
+msgstr "Tastatură"
+
+#: app/js/question_controller.js:25
+msgid "System Updates"
+msgstr "Actualizări de sistem"
+
+#: app/js/question_controller.js:27
+msgid "Marketplace/Apps Install"
+msgstr "Marketplace/Instalare aplicații"
+
+#: app/js/question_controller.js:28
+msgid "Other"
+msgstr "Altele"
+
+#: app/js/utils.js:122
+msgid "just now"
+msgstr "chiar acum"
+
+#: app/js/utils.js:126
+msgid "{n} minute ago"
+msgid_plural "{n} minutes ago"
+msgstr[0] "acum {n} minut"
+msgstr[1] "acum {n} minute"
+msgstr[2] "acum {n} de minute"
+
+#: app/js/utils.js:132
+msgid "{n} hour ago"
+msgid_plural "{n} hours ago"
+msgstr[0] "acum {n} oră"
+msgstr[1] "acum {n} ore"
+msgstr[2] "acum {n} de ore"
+
+#: app/js/utils.js:138
+msgid "{n} day ago"
+msgid_plural "{n} days ago"
+msgstr[0] "acum {n} zi"
+msgstr[1] "acum {n} zile"
+msgstr[2] "acum {n} de zile"
