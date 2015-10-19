@@ -32,7 +32,7 @@ msgstr ""
 "Project-Id-Version: support.mozilla.com\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-12 15:20-0700\n"
-"PO-Revision-Date: 2015-10-18 21:41+0000\n"
+"PO-Revision-Date: 2015-10-19 12:56+0000\n"
 "Last-Translator: Jobava <jobaval10n@gmail.com>\n"
 "Language-Team: Romanian <LL@li.org>\n"
 "Language: ro\n"
@@ -42,7 +42,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2);;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1445204473.0\n"
+"X-POOTLE-MTIME: 1445259417.0\n"
 
 #. #-#-#-#-#  ltxt.pot (PACKAGE VERSION)  #-#-#-#-#
 #. This is at the end of an email.
@@ -951,7 +951,7 @@ msgstr "Localizare"
 #: kitsune/community/templates/community/index.html:107
 #: kitsune/customercare/templates/customercare/landing.html:3
 msgid "Army of Awesome"
-msgstr "Armata oamenilor extraordinari"
+msgstr "Armata Fantastică"
 
 #: kitsune/community/templates/community/index.html:116
 #: kitsune/community/templates/community/search.html:14
@@ -1050,7 +1050,7 @@ msgstr "Contribuitori de top - localizare"
 #: kitsune/community/templates/community/top_contributors.html:10
 #: kitsune/community/templates/community/top_contributors_react.html:17
 msgid "Top Contributors - Army of Awesome"
-msgstr "Top 10 contribuitori - Armata oamenilor extraordinari"
+msgstr "Top 10 contribuitori - Armata Fantastică"
 
 #: kitsune/community/templates/community/top_contributors.html:29
 msgid "Select by Locale"
@@ -1187,7 +1187,7 @@ msgstr ""
 #: kitsune/landings/templates/landings/mobile/get-involved-aoa.html:3
 #: kitsune/landings/templates/landings/mobile/get-involved-aoa.html:10
 msgid "Join our Army of Awesome"
-msgstr "Alătură-te armatei noastre de oameni extraordinari"
+msgstr "Alătură-te armatei noastre fantastice"
 
 #: kitsune/customercare/templates/customercare/landing.html:14
 msgid ""
@@ -1259,7 +1259,7 @@ msgstr ""
 
 #: kitsune/customercare/templates/customercare/landing.html:76
 msgid "Have a question about Army of Awesome?"
-msgstr "Ai o întrebare despre Armata Oamenilor Extraordinari?"
+msgstr "Ai o întrebare despre Armata Fantastică?"
 
 #: kitsune/customercare/templates/customercare/landing.html:77
 msgid "Ask other contributors"
@@ -1283,7 +1283,7 @@ msgid ""
 "tool."
 msgstr ""
 "Interzicerea utilizatorului va preveni ca un anume nume de Twitter să "
-"folosească unealta Armatei Oamenilor Extraordinari."
+"folosească unealta Armata Fantastică."
 
 #: kitsune/customercare/templates/customercare/moderate.html:12
 msgid "Ban User"
@@ -1307,7 +1307,7 @@ msgid ""
 "of Awesome."
 msgstr ""
 "Marcarea unui utilizator cu „ignorare” va preveni ca tweeturile acestuia să "
-"fie afișate în Armata oamenilor extraordinari."
+"fie afișate în Armata Fantastică."
 
 #: kitsune/customercare/templates/customercare/moderate.html:27
 msgid "Ignore User"
@@ -1398,8 +1398,8 @@ msgid ""
 "Before you join, you need to give Army of Awesome the permission to post "
 "tweets on your behalf."
 msgstr ""
-"Înainte de a te alătura, trebuie să oferi Armatei Oamenilor Extraordinari "
-"permisiunea de a posta tweet-uri în numele tău."
+"Înainte de a te alătura, trebuie să oferi Armatei Fantastice permisiunea de "
+"a posta tweet-uri în numele tău."
 
 #: kitsune/customercare/templates/customercare/twitter_modal.html:13
 msgid "You will always control every tweet you post."
@@ -1408,8 +1408,7 @@ msgstr "Vei fi mereu în control asupra fiecărui tweet postat."
 #: kitsune/customercare/templates/customercare/twitter_modal.html:15
 msgid "Army of Awesome will never tweet without your permission."
 msgstr ""
-"Armata Oamenilor Extraordinari nu va trimite niciodată tweet-uri fără "
-"permisiunea ta."
+"Armata Fantastică nu va trimite niciodată tweet-uri fără permisiunea ta."
 
 #: kitsune/customercare/templates/customercare/twitter_modal.html:24
 msgid "Before you connect to Twitter, you must sign in to Mozilla Support."
@@ -3315,15 +3314,15 @@ msgstr "Definiția contribuției: a avut 10+ postări"
 
 #: kitsune/kpi/templates/kpi/dashboard.html:124
 msgid "Number of active Army of Awesome contributors"
-msgstr "Numărul de contribuitori activi la Armata Oamenilor Extraordinari"
+msgstr "Numărul de contribuitori activi la Armata Fantastică"
 
 #: kitsune/kpi/templates/kpi/dashboard.html:127
 msgid ""
 "Definition: The number of people who have contributed to the Army of Awesome "
 "in the last 30 days."
 msgstr ""
-"Definiție: numărul de oameni care au contribuit la Armata oamenilor "
-"extraordinari în ultimele 30 de zile."
+"Definiție: numărul de oameni care au contribuit la Armata Fantastică în "
+"ultimele 30 de zile."
 
 #: kitsune/kpi/templates/kpi/dashboard.html:131
 msgid "Definition of contribution: replied to a tweet."
@@ -3447,7 +3446,7 @@ msgstr "Ajută alți utilizatori"
 
 #: kitsune/landings/templates/landings/get-involved-aoa.html:3
 msgid "Army Of Awesome"
-msgstr "Armata oamenilor extraordinari"
+msgstr "Armata Fantastică"
 
 #: kitsune/landings/templates/landings/get-involved-aoa.html:11
 #: kitsune/landings/templates/landings/mobile/get-involved-aoa.html:14
@@ -3463,12 +3462,12 @@ msgid ""
 msgstr ""
 "Acum poți să combini ajutorul acordat pentru Firefox cu Twitter. Este rapid, "
 "ușor și nu trebuie să fii superstar tehnologic pentru a o face. Noi numim "
-"asta Armata oamenilor extraordinari."
+"asta Armata Fantastică."
 
 #: kitsune/landings/templates/landings/get-involved-aoa.html:20
 #: kitsune/landings/templates/landings/mobile/get-involved-aoa.html:23
 msgid "It's fun and addictive and the Awesome is you!"
-msgstr "Este distractiv și creează dependență iar tu ești Extraordinar!"
+msgstr "Este distractiv și creează dependență și Fantasticul ești tu!"
 
 #: kitsune/landings/templates/landings/get-involved-aoa.html:29
 #: kitsune/landings/templates/landings/mobile/get-involved-aoa.html:71
@@ -3501,7 +3500,7 @@ msgstr "Înregistrează-te ca voluntar"
 #: kitsune/landings/templates/landings/get-involved-aoa.html:48
 #: kitsune/landings/templates/landings/mobile/get-involved-aoa.html:38
 msgid "Go to Army of Awesome"
-msgstr "Mergi la Armata oamenilor extraordinari"
+msgstr "Mergi la Armata Fantastică"
 
 #: kitsune/landings/templates/landings/get-involved-aoa.html:51
 #: kitsune/landings/templates/landings/mobile/get-involved-aoa.html:41
@@ -3622,7 +3621,7 @@ msgstr ""
 #: kitsune/landings/templates/landings/mobile/get-involved-questions.html:63
 #: kitsune/landings/templates/landings/mobile/get-involved.html:42
 msgid "Army of Awesome: help users on Twitter"
-msgstr "Armata oamenilor extraordinari: ajută utilizatorii prin Twitter"
+msgstr "Armata Fantastică: ajută utilizatori prin Twitter"
 
 #: kitsune/landings/templates/landings/get-involved-l10n.html:3
 msgid "Translate Help Articles"
@@ -7828,7 +7827,7 @@ msgstr ""
 #: kitsune/sumo/db_strings.py:352
 msgctxt "DB: badger.Badge.title"
 msgid "2015 Army of Awesome Badge"
-msgstr "Medalie Armata Oamenilor Extraordinari din 2015"
+msgstr "Medalie Armata Fantastică 2015"
 
 #: kitsune/sumo/db_strings.py:353
 msgctxt "DB: badger.Badge.description"
@@ -7836,8 +7835,8 @@ msgid ""
 "This badge is awarded to contributors with 50 Army of Awesome tweets during "
 "2015."
 msgstr ""
-"Această medalie este oferită contribuitorilor cu peste 50 de tweet-uri "
-"pentru Armata Oamenilor Extraordinari în anul 2015."
+"Această medalie este oferită contribuitorilor cu peste 50 de tweeturi pentru "
+"Armata Fantastică în anul 2015."
 
 #: kitsune/sumo/db_strings.py:354
 msgctxt "DB: badger.Badge.title"
@@ -7870,7 +7869,7 @@ msgstr ""
 #: kitsune/sumo/db_strings.py:358
 msgctxt "DB: badger.Badge.title"
 msgid "2014 Army of Awesome Badge"
-msgstr "Medalie 2014 Armata Oamenilor Extraordinari"
+msgstr "Medalie Armata Fantastică 2014"
 
 #: kitsune/sumo/db_strings.py:359
 msgctxt "DB: badger.Badge.description"
@@ -7880,11 +7879,10 @@ msgid ""
 "tweets. Congrats to all SUMO Army of Awesome 2014 badge earners for "
 "advancing the Mozilla Mission!"
 msgstr ""
-"Mini-medalia SUMO Armata Oamenilor Extraordinari 2014 este parte a seriei "
-"SUMO. Ea reprezintă contribuții la SUMO din 2014; în acest caz: 50 de tweet-"
-"uri Armata Oamenilor Extraordinari. Felicitări tuturor câștigătorilor "
-"Armatei Oamenilor Extraordinari SUMO 2014 pentru avansarea misiunii "
-"Mozillei!"
+"Mini-medalia SUMO Armata Fantastică 2014 este parte a seriei SUMO. Ea "
+"reprezintă contribuții la SUMO din 2014; în acest caz: 50 de tweeturi pentru "
+"Armata Fantastică. Felicitări tuturor câștigătorilor Armatei Fantastice "
+"SUMO 2014 pentru avansarea misiunii Mozillei!"
 
 #: kitsune/sumo/db_strings.py:360
 msgctxt "DB: badger.Badge.title"
@@ -7994,7 +7992,7 @@ msgstr ""
 #: kitsune/sumo/db_strings.py:372
 msgctxt "DB: badger.Badge.title"
 msgid "2012 Army of Awesome Badge"
-msgstr "Medalie Armata Oamenilor Extraordinari 2012"
+msgstr "Medalie Armata Fantastică 2012"
 
 #: kitsune/sumo/db_strings.py:373
 msgctxt "DB: badger.Badge.description"
@@ -8004,16 +8002,15 @@ msgid ""
 "tweets. Congrats to all SUMO Army of Awesome 2012 badge earners for "
 "advancing the Mozilla Mission!"
 msgstr ""
-"Mini-medalia SUMO Armata Oamenilor Extraordinari 2012 este parte a seriei "
-"SUMO. Ea reprezintă contribuții la SUMO în 2012; în acest caz: 50 de tweet-"
-"uri pentru Armata Oamenilor Extraordinari. Felicitări tuturor câștigătorilor "
-"medaliei SUMO Armata Oamenilor Extraordinari 2012 pentru avansarea misiunii "
-"Mozillei!"
+"Mini-medalia SUMO Armata Fantastică 2012 este parte a seriei SUMO. Ea "
+"reprezintă contribuții la SUMO în 2012; în acest caz: 50 de tweeturi pentru "
+"Armata Fantastică. Felicitări tuturor câștigătorilor medaliei SUMO Armata "
+"Fantastică 2012 pentru avansarea misiunii Mozillei!"
 
 #: kitsune/sumo/db_strings.py:374
 msgctxt "DB: badger.Badge.title"
 msgid "2013 Army of Awesome Badge"
-msgstr "Medalie Armata Oamenilor Extraordinari 2013"
+msgstr "Medalie Armata Fantastică 2013"
 
 #: kitsune/sumo/db_strings.py:375
 msgctxt "DB: badger.Badge.description"
@@ -8023,16 +8020,15 @@ msgid ""
 "tweets. Congrats to all SUMO Army of Awesome 2013 badge earners for "
 "advancing the Mozilla Mission!"
 msgstr ""
-"Mini-medalia SUMO Armata Oamenilor Extraordinari este parte a seriei SUMO. "
-"Ea reprezintă contribuții la SUMO în 2013; în acest caz: 50 de tweet-uri "
-"pentru Armata Oamenilor Extraordinari. Felicitări tuturor câștigătorilor "
-"medaliei SUMO Armata Oamenilor Extraordinari 2013 pentru avansarea misiunii "
-"Mozillei!"
+"Mini-medalia SUMO Armata Fantastică este parte a seriei SUMO. Ea reprezintă "
+"contribuții la SUMO în 2013; în acest caz: 50 de tweeturi pentru Armata "
+"Fantastică. Felicitări tuturor câștigătorilor medaliei SUMO Armata "
+"Fantastică 2013 pentru avansarea misiunii Mozillei!"
 
 #: kitsune/sumo/db_strings.py:376
 msgctxt "DB: badger.Badge.title"
 msgid "2010 Army of Awesome Badge"
-msgstr "Medalie 2010 Armata Oamenilor Extraordinari"
+msgstr "Medalie Armata Fantastică 2010"
 
 #: kitsune/sumo/db_strings.py:377
 msgctxt "DB: badger.Badge.description"
@@ -8042,16 +8038,15 @@ msgid ""
 "tweets. Congrats to all SUMO Army of Awesome 2010 badge earners for "
 "advancing the Mozilla Mission!"
 msgstr ""
-"Mini-medalia SUMO Armata Oamenilor Extraordinari 2010 este parte a seriei "
-"SUMO. Ea reprezintă contribuții la SUMO în 2010; în acest caz: 50 de tweet-"
-"uri pentru Armata Oamenilor Extraordinari. Felicitări tuturor câștigătorilor "
-"medaliei SUMO Armata Oamenilor Extraordinari 2010 pentru avansarea misiunii "
-"Mozillei!"
+"Mini-medalia SUMO Armata Fantastică 2010 este parte a seriei SUMO. Ea "
+"reprezintă contribuții la SUMO în 2010; în acest caz: 50 de tweeturi pentru "
+"Armata Fantastică. Felicitări tuturor câștigătorilor medaliei SUMO Armata "
+"Fantastică 2010 pentru avansarea misiunii Mozillei!"
 
 #: kitsune/sumo/db_strings.py:378
 msgctxt "DB: badger.Badge.title"
 msgid "2011 Army of Awesome Badge"
-msgstr "Medalie Armata Oamenilor Extraordinari 2011"
+msgstr "Medalie Armata Fantastică 2011"
 
 #: kitsune/sumo/db_strings.py:379
 msgctxt "DB: badger.Badge.description"
@@ -8061,11 +8056,10 @@ msgid ""
 "tweets. Congrats to all SUMO Army of Awesome 2011 badge earners for "
 "advancing the Mozilla Mission!"
 msgstr ""
-"Mini-medalia SUMO Armata Oamenilor Extraordinari 2011 este parte a seriei "
-"SUMO. Ea reprezintă contribuții la SUMO în 2011; în acest caz: 50 de tweet-"
-"uri pentru Armata Oamenilor Extraordinari. Felicitări tuturor câștigătorilor "
-"medaliei SUMO Armata Oamenilor Extraordinari 2011 pentru avansarea misiunii "
-"Mozillei!"
+"Mini-medalia SUMO Armata Fantastică 2011 este parte a seriei SUMO. Ea "
+"reprezintă contribuții la SUMO în 2011; în acest caz: 50 de tweeturi pentru "
+"Armata Fantastică. Felicitări tuturor câștigătorilor medaliei SUMO Armata "
+"Fantastică 2011 pentru avansarea misiunii Mozillei!"
 
 #: kitsune/sumo/db_strings.py:380
 msgctxt "DB: badger.Badge.title"
@@ -9645,7 +9639,7 @@ msgid ""
 "<a href=\"%(url)s\">Twitter Contributor</a> - Respond to tweets about "
 "Firefox."
 msgstr ""
-"<a href=\"%(url)s\">Contribuitori Twitter</a> - Răspunde la tweet-uri despre "
+"<a href=\"%(url)s\">Contribuitori Twitter</a> - Răspunde la tweeturi despre "
 "Firefox."
 
 #: kitsune/users/templates/users/email/contributor.html:52
